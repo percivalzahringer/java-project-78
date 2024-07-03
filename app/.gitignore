@@ -1,0 +1,1 @@
+.gradlebuild/!gradle/wrapper/gradle-wrapper.jar!**/src/main/**/build/gradle# Ignore Gradle build output directorybuild**/logs/.settingsbin.project*.classpath.idea/.factorypath
